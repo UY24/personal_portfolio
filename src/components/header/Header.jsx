@@ -37,7 +37,6 @@ const Header = () => {
                 Home
               </a>
             </li>
-
             <li className="nav_item">
               <a
                 href="#about"
